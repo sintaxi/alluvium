@@ -1,0 +1,29 @@
+{
+  "name": "alluvium",
+  "version": "0.1.0",
+  "description": "time-series analytics for static web sites",
+  "main": "lib/alluvium.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "devDependencies": {
+    "mocha": "2.2.1",
+    "should": "5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sintaxi/alluvium.git"
+  },
+  "keywords": [
+    "analytics",
+    "static",
+    "web",
+    "surge"
+  ],
+  "author": "Brock Whitten <brock@chloi.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sintaxi/alluvium/issues"
+  },
+  "homepage": "https://github.com/sintaxi/alluvium"
+}
