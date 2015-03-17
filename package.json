@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/sintaxi/alluvium/issues"
   },
-  "homepage": "https://github.com/sintaxi/alluvium"
+  "homepage": "https://github.com/sintaxi/alluvium",
+  "dependencies": {
+    "redis": "^0.12.1"
+  }
 }
