@@ -13,11 +13,18 @@ describe("alluvium", function(){
     .on('end', done)
   })
 
-  it("exist", function(done){
+  it("should exist", function(done){
     should.exist(alluvium)
-    alluvium.should.have.property("write")
-    alluvium.should.have.property("read")
+    alluvium.should.have.property("write").and.be.a.Function
+    alluvium.should.have.property("read").and.be.a.Function
     done()
+  })
+
+  it("should return version in payload", function(done){
+    alluvium.read("", {}, function(data){
+      data.should.have.property("version")
+      done()
+    })
   })
 
 })
