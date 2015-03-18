@@ -24,6 +24,7 @@ describe("alluvium", function(){
     alluvium.read("sintaxi.com", function(data){
       data.should.have.property("version")
       data.should.have.property("range")
+      console.log(data)
       done()
     })
   })
