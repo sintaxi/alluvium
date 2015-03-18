@@ -21,8 +21,9 @@ describe("alluvium", function(){
   })
 
   it("should return version in payload", function(done){
-    alluvium.read("", {}, function(data){
+    alluvium.read("sintaxi.com", function(data){
       data.should.have.property("version")
+      data.should.have.property("range")
       done()
     })
   })
