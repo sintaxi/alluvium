@@ -1,20 +1,20 @@
-{ "domain": "sintaxi.com", "path": "/", "status": 200, "device": "phone", "method": "get", "referrer": null }
-{ "domain": "sintaxi.com", "path": "/", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "domain": "sintaxi.com", "path": "/", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "domain": "sintaxi.com", "path": "/", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "domain": "sintaxi.com", "path": "/about", "status": 200, "device": "phone", "method": "get", "referrer": null }
-{ "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "domain": "sintaxi.com", "path": "/contact", "status": 200, "device": "desktop", "method": "get", "referrer": null }
-{ "domain": "sintaxi.com", "path": "/contact", "status": 304, "device": "desktop", "method": "get", "referrer": null }
-{ "domain": "sintaxi.com", "path": "/contact", "status": 304, "device": "desktop", "method": "get", "referrer": null }
-{ "domain": "sintaxi.com", "path": "/contact", "status": 304, "device": "desktop", "method": "get", "referrer": null }
-{ "domain": "sintaxi.com", "path": "/blog/hi", "status": 200, "device": "desktop", "method": "get", "referrer": "twitter.com/status/12345" }
-{ "domain": "sintaxi.com", "path": "/blog/hi", "status": 304, "device": "desktop", "method": "get", "referrer": "twitter.com/status/12345" }
-{ "domain": "sintaxi.com", "path": "/blog/hi", "status": 304, "device": "desktop", "method": "get", "referrer": "twitter.com/status/12345" }
-{ "domain": "sintaxi.com", "path": "/blog/hi", "status": 304, "device": "desktop", "method": "get", "referrer": "twitter.com/status/12345" }
-{ "domain": "sintaxi.com", "path": "/not-exist", "status": 404, "device": "tablet", "method": "get", "referrer": "twitter.com/status/6789" }
-{ "domain": "sintaxi.com", "path": "/not-exist", "status": 404, "device": "tablet", "method": "get", "referrer": "twitter.com/status/6789" }
+{ "timestamp": "2015-03-14", "domain": "sintaxi.com", "path": "/", "status": 200, "device": "phone", "method": "get", "referrer": null }
+{ "timestamp": "2015-03-14", "domain": "sintaxi.com", "path": "/", "status": 304, "device": "phone", "method": "get", "referrer": null }
+{ "timestamp": "2015-03-15", "domain": "sintaxi.com", "path": "/", "status": 304, "device": "phone", "method": "get", "referrer": null }
+{ "timestamp": "2015-03-15", "domain": "sintaxi.com", "path": "/", "status": 304, "device": "phone", "method": "get", "referrer": null }
+{ "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 200, "device": "phone", "method": "get", "referrer": null }
+{ "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
+{ "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
+{ "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
+{ "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
+{ "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
+{ "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/contact", "status": 200, "device": "desktop", "method": "get", "referrer": null }
+{ "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/contact", "status": 304, "device": "desktop", "method": "get", "referrer": null }
+{ "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/contact", "status": 304, "device": "desktop", "method": "get", "referrer": null }
+{ "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/contact", "status": 304, "device": "desktop", "method": "get", "referrer": null }
+{ "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/blog/hi", "status": 200, "device": "desktop", "method": "get", "referrer": "twitter.com/status/12345" }
+{ "timestamp": "2015-03-18", "domain": "sintaxi.com", "path": "/blog/hi", "status": 304, "device": "desktop", "method": "get", "referrer": "twitter.com/status/12345" }
+{ "timestamp": "2015-03-18", "domain": "sintaxi.com", "path": "/blog/hi", "status": 304, "device": "desktop", "method": "get", "referrer": "twitter.com/status/12345" }
+{ "timestamp": "2015-03-18", "domain": "sintaxi.com", "path": "/blog/hi", "status": 304, "device": "desktop", "method": "get", "referrer": "twitter.com/status/12345" }
+{ "timestamp": "2015-03-18", "domain": "sintaxi.com", "path": "/not-exist", "status": 404, "device": "tablet", "method": "get", "referrer": "twitter.com/status/6789" }
+{ "timestamp": "2015-03-18", "domain": "sintaxi.com", "path": "/not-exist", "status": 404, "device": "tablet", "method": "get", "referrer": "twitter.com/status/6789" }
