@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/sintaxi/alluvium",
   "dependencies": {
-    "redis": "0.12.1"
+    "redis": "0.12.1",
+    "moment": "^2.9.0"
   }
 }
