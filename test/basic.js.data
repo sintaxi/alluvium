@@ -5,9 +5,9 @@
 { "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 200, "device": "phone", "method": "get", "referrer": null }
 { "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
 { "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
-{ "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": "phone", "method": "get", "referrer": null }
+{ "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": null, "method": "get", "referrer": null }
+{ "timestamp": "2015-03-16", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": null, "method": "get", "referrer": null }
+{ "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/about", "status": 304, "device": null, "method": "get", "referrer": null }
 { "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/contact", "status": 200, "device": "desktop", "method": "get", "referrer": null }
 { "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/contact", "status": 304, "device": "desktop", "method": "get", "referrer": null }
 { "timestamp": "2015-03-17", "domain": "sintaxi.com", "path": "/contact", "status": 304, "device": "desktop", "method": "get", "referrer": null }
