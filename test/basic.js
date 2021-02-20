@@ -1,7 +1,11 @@
-var fs        = require("fs")
-var alluvium  = require("../").createClient()
-var ndjson    = require("ndjson")
-var should    = require("should")
+var fs          = require("fs")
+var ndjson      = require("ndjson")
+var should      = require("should")
+var redis       = require("redis")
+var redisClient = redis.createClient()
+var alluvium    = require("../").createClient({
+  redisClient: redisClient
+})
 
 describe("alluvium", function(){
 
@@ -21,10 +25,16 @@ describe("alluvium", function(){
   })
 
   it("should return version in payload", function(done){
-    alluvium.read("sintaxi.com", function(data){
+    alluvium.read("sintaxi.com", { timestamp: "2015-03-18" }, function(data){
       data.should.have.property("version")
       data.should.have.property("range")
-      console.log(data)
+      console.debug(data.paths)
+      done()
+    })
+  })
+
+  after(function(done){
+    redisClient.flushall(function(){
       done()
     })
   })
