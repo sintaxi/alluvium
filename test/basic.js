@@ -28,7 +28,6 @@ describe("alluvium", function(){
     alluvium.read("sintaxi.com", { timestamp: "2015-03-18" }, function(data){
       data.should.have.property("version")
       data.should.have.property("range")
-      console.debug(data.paths)
       done()
     })
   })
