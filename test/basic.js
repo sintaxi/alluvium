@@ -24,10 +24,30 @@ describe("alluvium", function(){
     done()
   })
 
-  it("should return version in payload", function(done){
-    alluvium.read("sintaxi.com", { timestamp: "2015-03-18" }, function(data){
+  it("should default to 14 days from current day", function(done){
+    alluvium.read("sintaxi.com", function(data){
       data.should.have.property("version")
       data.should.have.property("range")
+      data.range.should.be.instanceof(Array).and.have.lengthOf(14);
+      (new Date(data.range[data.range.length -1]).getDate()).should.equal(new Date().getDate())
+      done()
+    })
+  })
+
+  it("should return a range of 14 by default", function(done){
+    alluvium.read("sintaxi.com", { timestamp: "2015-03-18"}, function(data){
+      data.should.have.property("version")
+      data.should.have.property("range")
+      data.range.should.be.instanceof(Array).and.have.lengthOf(14);
+      done()
+    })
+  })
+
+  it("should return a range of 3", function(done){
+    alluvium.read("sintaxi.com", { timestamp: "2015-03-18", offset: 3 }, function(data){
+      data.should.have.property("version")
+      data.should.have.property("range")
+      data.range.should.be.instanceof(Array).and.have.lengthOf(3);
       done()
     })
   })
