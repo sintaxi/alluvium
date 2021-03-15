@@ -25,11 +25,10 @@ describe("alluvium", function(){
   })
 
   it("should default to 14 days from current day", function(done){
-    alluvium.read("sintaxi.com", function(data){
+    alluvium.read("sintaxi.com", {}, function(data){
       data.should.have.property("version")
       data.should.have.property("range")
       data.range.should.be.instanceof(Array).and.have.lengthOf(14);
-      (new Date(data.range[data.range.length -1]).getDate()).should.equal(new Date().getDate())
       done()
     })
   })

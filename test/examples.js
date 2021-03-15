@@ -32,7 +32,7 @@ describe("samples", function(){
       var keys = Object.keys(analytics)
 
       keys.forEach(function(key){
-        it("should have " + key, function(done){
+        it("should have " + key + " and match", function(done){
           alluvium.read(sample, { endDay: "2021-01-02", numberOfDays: 4 }, function(results){
             results.should.have.property(key)
             results[key].should.eql(analytics[key])
