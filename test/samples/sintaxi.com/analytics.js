@@ -10,23 +10,28 @@ module.exports = {
   ],
 
   general: {
-    visits:     { total: 0, breakdown: [0,0,0,0] },
-    connAll:    { total: 0, breakdown: [0,0,0,0] },
-    connEn:     { total: 0, breakdown: [0,0,0,0] },
-    connUn:     { total: 0, breakdown: [0,0,0,0] },
-    connR2En:   { total: 0, breakdown: [0,0,0,0] },
-    connR2Un:   { total: 0, breakdown: [0,0,0,0] },
-    st200:      { total: 0, breakdown: [0,0,0,0] },
-    st404:      { total: 0, breakdown: [0,0,0,0] },
-    st301:      { total: 0, breakdown: [0,0,0,0] },
-    bwH:        { total: 0, breakdown: [0,0,0,0] },
-    bwB:        { total: 0, breakdown: [0,0,0,0] },
-    bwT:        { total: 0, breakdown: [0,0,0,0] }
+    visits:     { total: 20,  breakdown: [4,4,6,6] },
+    connAll:    { total: 20,  breakdown: [4,4,6,6] },
+    connEn:     { total: 0,   breakdown: [0,0,0,0] },
+    connUn:     { total: 0,   breakdown: [0,0,0,0] },
+    connR2En:   { total: 0,   breakdown: [0,0,0,0] },
+    connR2Un:   { total: 0,   breakdown: [0,0,0,0] },
+    st200:      { total: 4,   breakdown: [1,1,1,1] },
+    st404:      { total: 2,   breakdown: [0,0,0,2] },
+    st301:      { total: 0,   breakdown: [0,0,0,0] },
+    st304:      { total: 14,  breakdown: [3,3,5,3] },
+    bwH:        { total: 0,   breakdown: [0,0,0,0] },
+    bwB:        { total: 0,   breakdown: [0,0,0,0] },
+    bwT:        { total: 0,   breakdown: [0,0,0,0] }
   },
 
   uaDevice:     {},
   uaOS:         {},
   uaBrowser:    {},
-  bwFile:       {}
+  bwFile:       {},
+  sources:      {
+    "twitter.com/status/12345": { total: 4, breakdown: [ 0, 0, 0, 4 ] },
+    "twitter.com/status/6789": {  total: 2, breakdown: [ 0, 0, 0, 2 ] }
+  }
 
 }

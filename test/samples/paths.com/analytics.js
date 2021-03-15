@@ -12,13 +12,13 @@ module.exports = {
   ],
 
   general: {
-    visits:     { total: 0, breakdown: [0,0,0,0] },
-    connAll:    { total: 0, breakdown: [0,0,0,0] },
+    visits:     { total: 6, breakdown: [0,2,2,2] },
+    connAll:    { total: 6, breakdown: [0,2,2,2] },
     connEn:     { total: 0, breakdown: [0,0,0,0] },
     connUn:     { total: 0, breakdown: [0,0,0,0] },
     connR2En:   { total: 0, breakdown: [0,0,0,0] },
     connR2Un:   { total: 0, breakdown: [0,0,0,0] },
-    st200:      { total: 0, breakdown: [0,0,0,0] },
+    st200:      { total: 6, breakdown: [0,2,2,2] },
     st404:      { total: 0, breakdown: [0,0,0,0] },
     st301:      { total: 0, breakdown: [0,0,0,0] },
     bwH:        { total: 0, breakdown: [0,0,0,0] },
@@ -29,6 +29,7 @@ module.exports = {
   uaDevice:     {},
   uaOS:         {},
   uaBrowser:    {},
-  bwFile:       {}
+  bwFile:       {},
+  sources:      {}
 
 }
