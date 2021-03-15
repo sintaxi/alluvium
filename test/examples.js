@@ -41,10 +41,12 @@ describe("samples", function(){
         })
       })
 
-      after(function(done){
-        done()
-      })
+    })
 
+    after(function(done){
+      redisClient.quit(function(){
+        done()  
+      })
     })
   })
 

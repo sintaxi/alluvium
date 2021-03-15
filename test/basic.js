@@ -53,7 +53,9 @@ describe("alluvium", function(){
 
   after(function(done){
     redisClient.flushall(function(){
-      done()
+      redisClient.quit(function(){
+        done()  
+      })
     })
   })
 
