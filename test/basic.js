@@ -1,11 +1,12 @@
 var fs          = require("fs")
 var ndjson      = require("ndjson")
 var should      = require("should")
+
 var redis       = require("redis")
 var redisClient = redis.createClient()
-var alluvium    = require("../").createClient({
-  redisClient: redisClient
-})
+
+var Alluvium    = require("../")
+var alluvium    = Alluvium.createClient({ redisClient: redisClient })
 
 describe("alluvium", function(){
 
@@ -18,7 +19,9 @@ describe("alluvium", function(){
   })
 
   it("should exist", function(done){
+    should.exist(Alluvium)
     should.exist(alluvium)
+    Alluvium.should.have.property("helpers")
     alluvium.should.have.property("write").and.be.a.Function
     alluvium.should.have.property("read").and.be.a.Function
     done()
