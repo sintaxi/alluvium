@@ -32,6 +32,12 @@ module.exports = {
   sources:      {
     "twitter.com/status/12345": { total: 4, breakdown: [ 0, 0, 0, 4 ] },
     "twitter.com/status/6789": {  total: 2, breakdown: [ 0, 0, 0, 2 ] }
+  },
+  pRedirect:{
+    "/": { total: 3, breakdown: [ 3, 0, 0, 0 ] },
+    "/about": { total: 5, breakdown: [ 0, 3, 2, 0 ] },
+    "/blog/hi": {  total: 3, breakdown: [ 0, 0, 0, 3 ] },
+    "/contact": {  total: 3, breakdown: [ 0, 0, 3, 0 ] }
   }
 
 }

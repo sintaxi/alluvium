@@ -93,3 +93,131 @@ describe("helpers.range", function(){
   })
 
 })
+
+describe("helpers.normalize", function(){
+
+  it("should exist", function(done){
+    should.exist(helpers.normalize)
+    helpers.should.have.property("normalize").and.be.a.Function
+    done()
+  })
+
+  it("should return object", function(done){
+    var analytics = {
+      version: "0.5.0",
+      domain: "sintaxi.com",
+      range: [
+        "2020-12-30",
+        "2020-12-31",
+        "2021-01-01",
+        "2021-01-02"
+      ],
+      general: {
+        visits:     { total: 20,  breakdown: [4,4,6,6] },
+        connAll:    { total: 20,  breakdown: [4,4,6,6] },
+        connEn:     { total: 0,   breakdown: [0,0,0,0] },
+        connUn:     { total: 0,   breakdown: [0,0,0,0] },
+        connR2En:   { total: 0,   breakdown: [0,0,0,0] },
+        connR2Un:   { total: 0,   breakdown: [0,0,0,0] },
+        st200:      { total: 4,   breakdown: [1,1,1,1] },
+        st404:      { total: 2,   breakdown: [0,0,0,2] },
+        st301:      { total: 0,   breakdown: [0,0,0,0] },
+        st304:      { total: 14,  breakdown: [3,3,5,3] },
+        bwH:        { total: 0,   breakdown: [0,0,0,0] },
+        bwB:        { total: 0,   breakdown: [0,0,0,0] },
+        bwT:        { total: 0,   breakdown: [0,0,0,0] }
+      },
+      pSuccess:{
+        "/":       { total: 4, breakdown: [ 0, 0, 0, 4 ] },
+        "/prices": {  total: 8, breakdown: [ 1, 4, 1, 2 ] }
+      },
+      pFail:{
+        "/not-there": { total: 4, breakdown: [ 0, 0, 0, 4 ] },
+        "/admin": {  total: 8, breakdown: [ 1, 4, 1, 2 ] }
+      },
+      pRedirect:{
+        "/blog": { total: 4, breakdown: [ 0, 0, 0, 4 ] },
+        "/faq": {  total: 8, breakdown: [ 1, 4, 1, 2 ] }
+      },
+      uaDevice:     {},
+      uaOS:         {},
+      uaBrowser:    {},
+      bwFile:{
+        "/main.css": { total: 4, breakdown: [ 0, 0, 0, 4 ] },
+        "/index.html": {  total: 8, breakdown: [ 1, 4, 1, 2 ] }
+      },
+      sources:{
+        "twitter.com/status/12345": { total: 4, breakdown: [ 0, 0, 0, 4 ] },
+        "twitter.com/status/6789": {  total: 2, breakdown: [ 0, 0, 0, 2 ] }
+      }
+    }
+    var normal = helpers.normalize(analytics)
+    console.log(normal)
+    
+    normal.should.have.property("version", "0.5.0")
+    normal.should.have.property("domain", "sintaxi.com")
+
+    normal.should.have.property("general")
+    normal.general.should.have.property("visits")
+    normal.general.should.have.property("connections")
+    normal.general.should.have.property("bandwidth")
+
+    normal.should.have.property("range")
+    normal.encryption.should.be.instanceof(Array).and.have.lengthOf(4)
+
+    normal.should.have.property("encryption")
+    normal.encryption.should.be.instanceof(Array).and.have.lengthOf(4)
+
+    normal.should.have.property("status")
+    normal.status.should.be.instanceof(Array).and.have.lengthOf(4)
+
+    normal.should.have.property("device")
+    normal.device.should.be.instanceof(Array)
+
+    normal.should.have.property("os")
+    normal.os.should.be.instanceof(Array)
+
+    normal.should.have.property("browser")
+    normal.browser.should.be.instanceof(Array)
+
+    normal.should.have.property("load")
+    normal.load.should.be.instanceof(Array)
+
+    normal.should.have.property("success")
+    normal.success.should.be.instanceof(Array)
+
+    normal.should.have.property("fail")
+    normal.fail.should.be.instanceof(Array)
+
+    normal.should.have.property("redirect")
+    normal.redirect.should.be.instanceof(Array)
+
+    done()
+  })
+
+  it("should return array", function(done){
+    should.exist(helpers.range)
+    helpers.range({ numberOfDays: 7 }).should.have.lengthOf(7)
+    done()
+  })
+
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
