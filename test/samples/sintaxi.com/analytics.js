@@ -10,7 +10,7 @@ module.exports = {
   ],
 
   general: {
-    visits:     { total: 20,  breakdown: [4,4,6,6] },
+    visits:     { total: 4,   breakdown: [1,1,1,1] },
     connAll:    { total: 20,  breakdown: [4,4,6,6] },
     connEn:     { total: 0,   breakdown: [0,0,0,0] },
     connUn:     { total: 0,   breakdown: [0,0,0,0] },
@@ -29,7 +29,7 @@ module.exports = {
   uaOS:         {},
   uaBrowser:    {},
   bwFile:       {},
-  sources:      {
+  sources: {
     "twitter.com/status/12345": { total: 4, breakdown: [ 0, 0, 0, 4 ] },
     "twitter.com/status/6789": {  total: 2, breakdown: [ 0, 0, 0, 2 ] }
   },

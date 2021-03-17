@@ -28,5 +28,8 @@
     "url": "https://github.com/sintaxi/alluvium/issues"
   },
   "homepage": "https://github.com/sintaxi/alluvium",
-  "dependencies": {}
+  "dependencies": {
+    "mime": "^2.5.2",
+    "ua-parser-js": "^0.7.24"
+  }
 }
