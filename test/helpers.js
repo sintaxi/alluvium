@@ -94,6 +94,46 @@ describe("helpers.range", function(){
 
 })
 
+describe("helpers.merge", function(){
+  it("should exist", function(done){
+    should.exist(helpers.merge)
+    helpers.should.have.property("merge").and.be.a.Function
+    done()
+  })
+
+  it("should merge all properties", function(done){
+    helpers.merge()
+    helpers.should.have.property("merge").and.be.a.Function
+
+    var payload = { 
+      "sfo": {
+        general: {
+          visits:     { total: 44,  breakdown: [9,5,12,18] },
+          connAll:    { total: 117,  breakdown: [41,23, 34, 19] },
+        }
+      },
+
+      "jfk": {
+        general: {
+          visits:     { total: 6,  breakdown: [1,3,2,0] },
+          connAll:    { total: 17,  breakdown: [6,7, 4, 0] },
+        }
+      }
+    }
+
+    var result = helpers.merge(payload)
+
+    result.should.eql({
+      general: {
+        visits:     { total: 50,  breakdown: [10,8,14,18] },
+        connAll:    { total: 134,  breakdown: [47,30, 38, 19] },
+      }
+    })
+
+    done()
+  })
+})
+
 describe("helpers.normalize", function(){
 
   it("should exist", function(done){
