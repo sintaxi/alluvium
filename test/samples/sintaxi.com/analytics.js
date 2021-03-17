@@ -1,5 +1,4 @@
 module.exports = {
-  version: "0.5.0",
   domain: "sintaxi.com",
 
   range: [

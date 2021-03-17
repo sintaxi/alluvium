@@ -1,7 +1,6 @@
 var helpers = require("../../../lib/helpers")
 
 module.exports = {
-  version: "0.5.0",
   domain: "paths.com",
 
   range: [
