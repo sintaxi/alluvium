@@ -152,7 +152,7 @@ describe("helpers.normalize", function(){
       }
     }
     var normal = helpers.normalize(analytics)
-    console.log(normal)
+    //console.log(normal)
     
     normal.should.have.property("version", "0.5.0")
     normal.should.have.property("domain", "sintaxi.com")
