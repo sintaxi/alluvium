@@ -4,6 +4,7 @@ module.exports =
   , { timestamp: "2020-12-30", domain: "sintaxi.com", status: 304, method: "get", device: "phone",   path: "/", referrer: null }
   , { timestamp: "2020-12-30", domain: "sintaxi.com", status: 304, method: "get", device: "phone",   path: "/", referrer: null }
   , { timestamp: "2020-12-31", domain: "sintaxi.com", status: 200, method: "get", device: "phone",   path: "/about", referrer: null }
+  , { timestamp: "2020-12-31", domain: "sintaxi.com", status: 301, method: "get", device: "phone",   path: "/foo", referrer: null }
   , { timestamp: "2020-12-31", domain: "sintaxi.com", status: 304, method: "get", device: "phone",   path: "/about", referrer: null }
   , { timestamp: "2020-12-31", domain: "sintaxi.com", status: 304, method: "get", device: "phone",   path: "/about", referrer: null }
   , { timestamp: "2020-12-31", domain: "sintaxi.com", status: 304, method: "get", device: null,      path: "/about", referrer: null }
