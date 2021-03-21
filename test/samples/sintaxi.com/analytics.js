@@ -21,7 +21,9 @@ module.exports = {
     st304:      { total: 14,  breakdown: [3,3,5,3] },
     bwH:        { total: 0,   breakdown: [0,0,0,0] },
     bwB:        { total: 0,   breakdown: [0,0,0,0] },
-    bwT:        { total: 0,   breakdown: [0,0,0,0] }
+    bwT:        { total: 0,   breakdown: [0,0,0,0] },
+    hit:        { total: 0,   breakdown: [0,0,0,0] },
+    miss:       { total: 0,   breakdown: [0,0,0,0] }
   },
 
   uaDevice:     {},
