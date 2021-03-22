@@ -11,8 +11,9 @@ module.exports = {
   ],
 
   general: {
-    visits:     { total: 6, breakdown: [0,2,2,2] },
-    connAll:    { total: 6, breakdown: [0,2,2,2] },
+    trC:        { total: 6, breakdown: [0,2,2,2] },
+    trV:        { total: 6, breakdown: [0,2,2,2] },
+    trU:        { total: 4, breakdown: [0,2,1,1] },
     connEn:     { total: 0, breakdown: [0,0,0,0] },
     connUn:     { total: 0, breakdown: [0,0,0,0] },
     connR2En:   { total: 0, breakdown: [0,0,0,0] },
@@ -22,7 +23,9 @@ module.exports = {
     st301:      { total: 0, breakdown: [0,0,0,0] },
     bwH:        { total: 0, breakdown: [0,0,0,0] },
     bwB:        { total: 0, breakdown: [0,0,0,0] },
-    bwT:        { total: 0, breakdown: [0,0,0,0] }
+    bwT:        { total: 0, breakdown: [0,0,0,0] },
+    cacheH:     { total: 0, breakdown: [0,0,0,0] },
+    cacheM:     { total: 0, breakdown: [0,0,0,0] }
   },
 
   uaDevice:     {},

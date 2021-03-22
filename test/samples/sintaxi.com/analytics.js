@@ -9,8 +9,9 @@ module.exports = {
   ],
 
   general: {
-    visits:     { total: 4,   breakdown: [1,1,1,1] },
-    connAll:    { total: 21,  breakdown: [4,5,6,6] },
+    trC:        { total: 21,  breakdown: [4,5,6,6] },
+    trV:        { total: 4,   breakdown: [1,1,1,1] },
+    trU:        { total: 8,   breakdown: [3,1,2,2] },
     connEn:     { total: 0,   breakdown: [0,0,0,0] },
     connUn:     { total: 0,   breakdown: [0,0,0,0] },
     connR2En:   { total: 0,   breakdown: [0,0,0,0] },
@@ -22,8 +23,8 @@ module.exports = {
     bwH:        { total: 0,   breakdown: [0,0,0,0] },
     bwB:        { total: 0,   breakdown: [0,0,0,0] },
     bwT:        { total: 0,   breakdown: [0,0,0,0] },
-    hit:        { total: 0,   breakdown: [0,0,0,0] },
-    miss:       { total: 0,   breakdown: [0,0,0,0] }
+    cacheH:     { total: 0,   breakdown: [0,0,0,0] },
+    cacheM:     { total: 0,   breakdown: [0,0,0,0] }
   },
 
   uaDevice:     {},
