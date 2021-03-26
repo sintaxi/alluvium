@@ -24,8 +24,8 @@ module.exports = {
     bwH:        { total: 0, breakdown: [0,0,0,0] },
     bwB:        { total: 0, breakdown: [0,0,0,0] },
     bwT:        { total: 0, breakdown: [0,0,0,0] },
-    cacheH:     { total: 0, breakdown: [0,0,0,0] },
-    cacheM:     { total: 0, breakdown: [0,0,0,0] }
+    cacheHIT:   { total: 0, breakdown: [0,0,0,0] },
+    cacheMISS:  { total: 0, breakdown: [0,0,0,0] }
   },
 
   uaDevice:     {},
