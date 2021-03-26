@@ -196,17 +196,25 @@ describe("helpers.normalize", function(){
     
     normal.should.have.property("version", "0.5.0")
     normal.should.have.property("domain", "sintaxi.com")
-
-    normal.should.have.property("general")
-    normal.general.should.have.property("visits")
-    normal.general.should.have.property("connections")
-    normal.general.should.have.property("bandwidth")
-
     normal.should.have.property("range")
-    normal.encryption.should.be.instanceof(Array).and.have.lengthOf(4)
+
+    
+
+    normal.should.have.property("traffic")
+    normal.traffic.should.have.property("connections")
+    normal.traffic.should.have.property("visits")
+    normal.traffic.should.have.property("uniques")
 
     normal.should.have.property("encryption")
-    normal.encryption.should.be.instanceof(Array).and.have.lengthOf(4)
+    normal.encryption.should.have.property("connEn")
+    normal.encryption.should.have.property("connUn")
+    normal.encryption.should.have.property("connR2En")
+    normal.encryption.should.have.property("connR2Un")
+
+    normal.should.have.property("bandwidth")
+    normal.bandwidth.should.have.property("all")
+    normal.bandwidth.should.have.property("headers")
+    normal.bandwidth.should.have.property("body")
 
     normal.should.have.property("status")
     normal.status.should.be.instanceof(Array).and.have.lengthOf(4)
