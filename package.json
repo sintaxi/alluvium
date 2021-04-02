@@ -1,6 +1,6 @@
 {
   "name": "alluvium",
-  "version": "0.7.7",
+  "version": "0.7.8",
   "description": "time-series analytics for static web sites",
   "main": "lib/alluvium.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "devDependencies": {
     "mocha": "6.2.3",
     "ndjson": "2.0.0",
-    "redis": "1.x",
+    "redis": "^3.1.0",
     "should": "13.2.3"
   },
   "repository": {
