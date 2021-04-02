@@ -179,9 +179,9 @@ describe("helpers.normalize", function(){
         "/blog": { total: 4, breakdown: [ 0, 0, 0, 4 ] },
         "/faq": {  total: 8, breakdown: [ 1, 4, 1, 2 ] }
       },
-      uaDevice:     {},
-      uaOS:         {},
-      uaBrowser:    {},
+      devices:     {},
+      os:         {},
+      browser:    {},
       bwFile:{
         "/main.css": { total: 4, breakdown: [ 0, 0, 0, 4 ] },
         "/index.html": {  total: 8, breakdown: [ 1, 4, 1, 2 ] }

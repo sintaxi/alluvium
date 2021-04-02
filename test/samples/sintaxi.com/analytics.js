@@ -27,10 +27,25 @@ module.exports = {
     cacheMISS:  { total: 0,   breakdown: [0,0,0,0] }
   },
 
-  uaDevice:     {},
-  uaOS:         {},
-  uaBrowser:    {},
-  bwFile:       {},
+  devices:    {
+    "Unknown": {
+      "total": 21,
+      "breakdown": [4,5,6,6]
+    }
+  },
+  os:         {
+    "Unknown": {
+      "total": 21,
+      "breakdown": [4,5,6,6]
+    }
+  },
+  browser:    {
+    "Unknown": {
+      "total": 21,
+      "breakdown": [4,5,6,6]
+    }
+  },
+  bwFile:     {},
   sources: {
     "twitter.com/status/12345": { total: 4, breakdown: [ 0, 0, 0, 4 ] },
     "twitter.com/status/6789": {  total: 2, breakdown: [ 0, 0, 0, 2 ] }
