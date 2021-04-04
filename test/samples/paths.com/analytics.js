@@ -25,7 +25,9 @@ module.exports = {
     bwB:        { total: 0, breakdown: [0,0,0,0] },
     bwT:        { total: 0, breakdown: [0,0,0,0] },
     cacheHIT:   { total: 0, breakdown: [0,0,0,0] },
-    cacheMISS:  { total: 0, breakdown: [0,0,0,0] }
+    cacheMISS:  { total: 0, breakdown: [0,0,0,0] },
+    deC:        { total: 0, breakdown: [0,0,0,0] },
+    deU:        { total: 3, breakdown: [0,1,1,1] }
   },
 
   devices:    {
@@ -50,3 +52,21 @@ module.exports = {
   sources:    {}
 
 }
+
+
+// map: [
+//   "/": {
+//     count: 224,
+//     to: [{
+//       "/about": 543,
+//       "/pricing": 503,
+//       "/pricing": 503,
+//     }]
+//   }
+// ]
+
+
+
+
+
+

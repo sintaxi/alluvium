@@ -24,12 +24,14 @@ module.exports = {
     bwB:        { total: 0,   breakdown: [0,0,0,0] },
     bwT:        { total: 0,   breakdown: [0,0,0,0] },
     cacheHIT:   { total: 0,   breakdown: [0,0,0,0] },
-    cacheMISS:  { total: 0,   breakdown: [0,0,0,0] }
+    cacheMISS:  { total: 0,   breakdown: [0,0,0,0] },
+    deC:        { total: 2,   breakdown: [0,0,2,0] },
+    deU:        { total: 4,   breakdown: [1,1,1,1] }
   },
 
   devices:    {
     "Unknown": {
-      "total": 21,
+      "total": 18,
       "breakdown": [4,5,6,6]
     }
   },
@@ -41,8 +43,8 @@ module.exports = {
   },
   browser:    {
     "Unknown": {
-      "total": 21,
-      "breakdown": [4,5,6,6]
+      "total": 19,
+      "breakdown": [4,5,4,6]
     }
   },
   bwFile:     {},
