@@ -34,6 +34,18 @@ describe("samples", function(){
       keys.forEach(function(key){
         it("should have " + key + " and match", function(done){
           alluvium.read(sample, { endDay: "2021-01-02", numberOfDays: 4 }, function(results){
+            //console.log(JSON.stringify(results))
+            results.should.have.property(key)
+            results[key].should.eql(analytics[key])
+            return done()
+          })
+        })
+      })
+
+      keys.forEach(function(key){
+        it("should have " + key + " and match", function(done){
+          alluvium.read(sample, { endDay: "2021-01-02", numberOfDays: 4 }, function(results){
+            //console.log(JSON.stringify(results))
             results.should.have.property(key)
             results[key].should.eql(analytics[key])
             return done()

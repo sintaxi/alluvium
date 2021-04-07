@@ -10,46 +10,58 @@ module.exports = {
     "2021-01-02"
   ],
 
-  general: {
-    trC:        { total: 6, breakdown: [0,2,2,2] },
-    trV:        { total: 6, breakdown: [0,2,2,2] },
-    trU:        { total: 4, breakdown: [0,2,1,1] },
-    connEn:     { total: 0, breakdown: [0,0,0,0] },
-    connUn:     { total: 0, breakdown: [0,0,0,0] },
-    connR2En:   { total: 0, breakdown: [0,0,0,0] },
-    connR2Un:   { total: 0, breakdown: [0,0,0,0] },
-    st200:      { total: 6, breakdown: [0,2,2,2] },
-    st404:      { total: 0, breakdown: [0,0,0,0] },
-    st301:      { total: 0, breakdown: [0,0,0,0] },
-    bwH:        { total: 0, breakdown: [0,0,0,0] },
-    bwB:        { total: 0, breakdown: [0,0,0,0] },
-    bwT:        { total: 0, breakdown: [0,0,0,0] },
-    cacheHIT:   { total: 0, breakdown: [0,0,0,0] },
-    cacheMISS:  { total: 0, breakdown: [0,0,0,0] },
-    deC:        { total: 0, breakdown: [0,0,0,0] },
-    deU:        { total: 3, breakdown: [0,1,1,1] }
+  g: {
+    tC:  { t: 6, s: [0,2,2,2] },
+    tV:  { t: 6, s: [0,2,2,2] },
+    tU:  { t: 4, s: [0,2,1,1] },
+    cE:  { t: 0, s: [0,0,0,0] },
+    cU:  { t: 0, s: [0,0,0,0] },
+    cRe: { t: 0, s: [0,0,0,0] },
+    cRu: { t: 0, s: [0,0,0,0] },
+    bH:  { t: 0, s: [0,0,0,0] },
+    bB:  { t: 0, s: [0,0,0,0] },
+    bA:  { t: 0, s: [0,0,0,0] },
+    xH:  { t: 0, s: [0,0,0,0] },
+    xM:  { t: 0, s: [0,0,0,0] },
+    dC:  { t: 0, s: [0,0,0,0] },
+    dU:  { t: 3, s: [0,1,1,1] }
   },
 
-  devices:    {
-    "Unknown": {
-      "total": 6,
-      "breakdown": [0,2,2,2]
-    }
+  uD: {
+    "2021-01-02":  { "Unknown": 2 },
+    "2021-01-01":  { "Unknown": 2 },
+    "2020-12-31":  { "Unknown": 2 }
   },
-  os:         {
-    "Unknown": {
-      "total": 6,
-      "breakdown": [0,2,2,2]
-    }
+
+  uO: {
+    "2021-01-02":  { "Unknown": 2 },
+    "2021-01-01":  { "Unknown": 2 },
+    "2020-12-31":  { "Unknown": 2 }
   },
-  browser:    {
-    "Unknown": {
-      "total": 6,
-      "breakdown": [0,2,2,2]
-    }
+
+  uB: {
+    "2021-01-02":  { "Unknown": 2 },
+    "2021-01-01":  { "Unknown": 2 },
+    "2020-12-31":  { "Unknown": 2 }
   },
-  bwFile:     {},
-  sources:    {}
+
+  bF: {
+    "2021-01-02":  {},
+    "2021-01-01":  {},
+    "2020-12-31":  {}
+  },
+
+  bF: {
+    "2021-01-02":  {},
+    "2021-01-01":  {},
+    "2020-12-31":  {}
+  },
+
+  rS: {
+    "2021-01-02":  {},
+    "2021-01-01":  {},
+    "2020-12-31":  {}
+  }
 
 }
 
