@@ -224,43 +224,56 @@ describe("helpers.normalize", function(){
         "2021-01-01",
         "2021-01-02"
       ],
-      general: {
-        visits:     { total: 20,  breakdown: [4,4,6,6] },
-        connAll:    { total: 20,  breakdown: [4,4,6,6] },
-        connEn:     { total: 0,   breakdown: [0,0,0,0] },
-        connUn:     { total: 0,   breakdown: [0,0,0,0] },
-        connR2En:   { total: 0,   breakdown: [0,0,0,0] },
-        connR2Un:   { total: 0,   breakdown: [0,0,0,0] },
-        st200:      { total: 4,   breakdown: [1,1,1,1] },
-        st404:      { total: 2,   breakdown: [0,0,0,2] },
-        st301:      { total: 0,   breakdown: [0,0,0,0] },
-        st304:      { total: 14,  breakdown: [3,3,5,3] },
-        bwH:        { total: 0,   breakdown: [0,0,0,0] },
-        bwB:        { total: 0,   breakdown: [0,0,0,0] },
-        bwT:        { total: 0,   breakdown: [0,0,0,0] }
+      g: {
+        tC:  { t: 21, s: [4,5,6,6] },
+        tV:  { t: 4,  s: [1,1,1,1] },
+        tU:  { t: 8,  s: [3,1,2,2] },
+        cE:  { t: 0,  s: [0,0,0,0] },
+        cU:  { t: 0,  s: [0,0,0,0] },
+        cRe: { t: 0,  s: [0,0,0,0] },
+        cRu: { t: 0,  s: [0,0,0,0] },
+        bH:  { t: 0,  s: [0,0,0,0] },
+        bB:  { t: 0,  s: [0,0,0,0] },
+        bA:  { t: 0,  s: [0,0,0,0] },
+        xH:  { t: 0,  s: [0,0,0,0] },
+        xM:  { t: 0,  s: [0,0,0,0] },
+        dC:  { t: 2,  s: [0,0,2,0] },
+        dU:  { t: 4,  s: [1,1,1,1] }
       },
-      pSuccess:{
-        "/":       { total: 4, breakdown: [ 0, 0, 0, 4 ] },
-        "/prices": {  total: 8, breakdown: [ 1, 4, 1, 2 ] }
+      uD: {
+        "2021-01-02":  { "Unknown": 6 },
+        "2021-01-01":  { "Unknown": 6 },
+        "2020-12-31":  { "Unknown": 5 }
       },
-      pFail:{
-        "/not-there": { total: 4, breakdown: [ 0, 0, 0, 4 ] },
-        "/admin": {  total: 8, breakdown: [ 1, 4, 1, 2 ] }
+      uO: {
+        "2021-01-02":  { "Unknown": 6 },
+        "2021-01-01":  { "Unknown": 6 },
+        "2020-12-31":  { "Unknown": 5 }
       },
-      pRedirect:{
-        "/blog": { total: 4, breakdown: [ 0, 0, 0, 4 ] },
-        "/faq": {  total: 8, breakdown: [ 1, 4, 1, 2 ] }
+      uB: {
+        "2021-01-02":  { "Unknown": 6 },
+        "2021-01-01":  { "Unknown": 6 },
+        "2020-12-31":  { "Unknown": 5 }
       },
-      devices:     {},
-      os:         {},
-      browser:    {},
-      bwFile:{
-        "/main.css": { total: 4, breakdown: [ 0, 0, 0, 4 ] },
-        "/index.html": {  total: 8, breakdown: [ 1, 4, 1, 2 ] }
+      bF: {
+        "2021-01-02":  {},
+        "2021-01-01":  {},
+        "2020-12-31":  {}
       },
-      sources:{
-        "twitter.com/status/12345": { total: 4, breakdown: [ 0, 0, 0, 4 ] },
-        "twitter.com/status/6789": {  total: 2, breakdown: [ 0, 0, 0, 2 ] }
+      rS: {
+        "2021-01-02": {
+          "twitter.com/status/12345": 4,
+          "twitter.com/status/6789": 2
+        },
+        "2021-01-01":  {},
+        "2020-12-31":  {}
+      },
+      pR: {
+        "2020-12-31": {
+          "301 /foo": 1
+        },
+        "2021-01-01":  {},
+        "2021-01-02":  {}
       }
     }
     var normal = helpers.normalize(analytics)
@@ -270,47 +283,59 @@ describe("helpers.normalize", function(){
     normal.should.have.property("domain", "sintaxi.com")
     normal.should.have.property("range")
 
-    
-
     normal.should.have.property("traffic")
     normal.traffic.should.have.property("connections")
     normal.traffic.should.have.property("visits")
     normal.traffic.should.have.property("uniques")
 
     normal.should.have.property("encryption")
-    normal.encryption.should.have.property("connEn")
-    normal.encryption.should.have.property("connUn")
-    normal.encryption.should.have.property("connR2En")
-    normal.encryption.should.have.property("connR2Un")
+    normal.encryption.should.have.property("E")
+    normal.encryption.should.have.property("U")
+    normal.encryption.should.have.property("Re")
+    normal.encryption.should.have.property("Ru")
 
     normal.should.have.property("bandwidth")
     normal.bandwidth.should.have.property("all")
     normal.bandwidth.should.have.property("headers")
     normal.bandwidth.should.have.property("body")
 
-    normal.should.have.property("status")
-    normal.status.should.be.instanceof(Array).and.have.lengthOf(4)
+    // normal.should.have.property("status")
+    // normal.status.should.be.instanceof(Array).and.have.lengthOf(4)
 
     normal.should.have.property("device")
-    normal.device.should.be.instanceof(Array)
+    Object.keys(normal.device).forEach(function(day){
+      normal.device[day].should.be.instanceof(Array)  
+    })
 
     normal.should.have.property("os")
-    normal.os.should.be.instanceof(Array)
+    Object.keys(normal.os).forEach(function(day){
+      normal.os[day].should.be.instanceof(Array)  
+    })
 
     normal.should.have.property("browser")
-    normal.browser.should.be.instanceof(Array)
-
-    normal.should.have.property("load")
-    normal.load.should.be.instanceof(Array)
+    Object.keys(normal.browser).forEach(function(day){
+      normal.browser[day].should.be.instanceof(Array)  
+    })
 
     normal.should.have.property("success")
-    normal.success.should.be.instanceof(Array)
+    Object.keys(normal.success).forEach(function(day){
+      normal.success[day].should.be.instanceof(Array)  
+    })
 
     normal.should.have.property("fail")
-    normal.fail.should.be.instanceof(Array)
+    Object.keys(normal.fail).forEach(function(day){
+      normal.fail[day].should.be.instanceof(Array)  
+    })
 
     normal.should.have.property("redirect")
-    normal.redirect.should.be.instanceof(Array)
+    Object.keys(normal.redirect).forEach(function(day){
+      normal.redirect[day].should.be.instanceof(Array)  
+    })
+
+    normal.should.have.property("load")
+    Object.keys(normal.load).forEach(function(day){
+      normal.load[day].should.be.instanceof(Array)  
+    })
 
     done()
   })
