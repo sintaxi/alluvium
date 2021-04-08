@@ -1,0 +1,4628 @@
+{
+  "sfo-12.surge.sh": {
+    "domain": "surge.sh",
+    "version": "0.8.0",
+    "range": [
+      "2021-03-26",
+      "2021-03-27",
+      "2021-03-28",
+      "2021-03-29",
+      "2021-03-30",
+      "2021-03-31",
+      "2021-04-01",
+      "2021-04-02",
+      "2021-04-03",
+      "2021-04-04",
+      "2021-04-05",
+      "2021-04-06",
+      "2021-04-07",
+      "2021-04-08"
+    ],
+    "g": {
+      "tC": {
+        "t": 1953,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1953
+        ]
+      },
+      "tV": {
+        "t": 188,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          188
+        ]
+      },
+      "tU": {
+        "t": 140,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          140
+        ]
+      },
+      "cE": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRe": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRu": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bH": {
+        "t": 721117,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          721117
+        ]
+      },
+      "bB": {
+        "t": 50973651,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          50973651
+        ]
+      },
+      "bA": {
+        "t": 51474434,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          51474434
+        ]
+      },
+      "xH": {
+        "t": 1953,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1953
+        ]
+      },
+      "xM": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "uD": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uO": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uB": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pR": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pN": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "bF": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rM": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    }
+  },
+  "sfo-15.surge.sh": {
+    "domain": "surge.sh",
+    "version": "0.8.0",
+    "range": [
+      "2021-03-26",
+      "2021-03-27",
+      "2021-03-28",
+      "2021-03-29",
+      "2021-03-30",
+      "2021-03-31",
+      "2021-04-01",
+      "2021-04-02",
+      "2021-04-03",
+      "2021-04-04",
+      "2021-04-05",
+      "2021-04-06",
+      "2021-04-07",
+      "2021-04-08"
+    ],
+    "g": {
+      "tC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tV": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cE": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRe": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRu": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bB": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bA": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xM": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "uD": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uO": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uB": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pR": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pN": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "bF": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rM": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    }
+  },
+  "sfo-14.surge.sh": {
+    "domain": "surge.sh",
+    "version": "0.8.0",
+    "range": [
+      "2021-03-26",
+      "2021-03-27",
+      "2021-03-28",
+      "2021-03-29",
+      "2021-03-30",
+      "2021-03-31",
+      "2021-04-01",
+      "2021-04-02",
+      "2021-04-03",
+      "2021-04-04",
+      "2021-04-05",
+      "2021-04-06",
+      "2021-04-07",
+      "2021-04-08"
+    ],
+    "g": {
+      "tC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tV": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cE": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRe": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRu": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bB": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bA": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xM": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "uD": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uO": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uB": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pR": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pN": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "bF": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rM": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    }
+  },
+  "jfk-01.surge.sh": {
+    "domain": "surge.sh",
+    "version": "0.8.0",
+    "range": [
+      "2021-03-26",
+      "2021-03-27",
+      "2021-03-28",
+      "2021-03-29",
+      "2021-03-30",
+      "2021-03-31",
+      "2021-04-01",
+      "2021-04-02",
+      "2021-04-03",
+      "2021-04-04",
+      "2021-04-05",
+      "2021-04-06",
+      "2021-04-07",
+      "2021-04-08"
+    ],
+    "g": {
+      "tC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tV": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cE": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRe": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRu": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bB": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bA": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xM": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "uD": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uO": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uB": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pR": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pN": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "bF": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rM": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    }
+  },
+  "yyz-02.surge.sh": {
+    "domain": "surge.sh",
+    "version": "0.8.0",
+    "range": [
+      "2021-03-26",
+      "2021-03-27",
+      "2021-03-28",
+      "2021-03-29",
+      "2021-03-30",
+      "2021-03-31",
+      "2021-04-01",
+      "2021-04-02",
+      "2021-04-03",
+      "2021-04-04",
+      "2021-04-05",
+      "2021-04-06",
+      "2021-04-07",
+      "2021-04-08"
+    ],
+    "g": {
+      "bA": {
+        "t": 51474434,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          51474434
+        ]
+      },
+      "bB": {
+        "t": 50973651,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          50973651
+        ]
+      },
+      "bH": {
+        "t": 721117,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          721117
+        ]
+      },
+      "xH": {
+        "t": 1953,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1953
+        ]
+      },
+      "tC": {
+        "t": 1953,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1953
+        ]
+      },
+      "cE": {
+        "t": 1899,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1899
+        ]
+      },
+      "tV": {
+        "t": 188,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          188
+        ]
+      },
+      "tU": {
+        "t": 140,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          140
+        ]
+      },
+      "cRe": {
+        "t": 54,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          54
+        ]
+      },
+      "dU": {
+        "t": 1,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "cE": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRe": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRu": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xM": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "uD": {
+      "2021-04-08": {
+        "Unknown": 1768,
+        "Apple mobile": 86,
+        "Samsung mobile": 38,
+        "Nokia mobile": 28,
+        "Lenovo mobile": 13,
+        "Huawei mobile": 13,
+        "Xiaomi mobile": 6,
+        "LG mobile": 1
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uO": {
+      "2021-04-08": {
+        "Windows": 1169,
+        "Ubuntu": 189,
+        "Mac OS": 186,
+        "Android": 124,
+        "iOS": 109,
+        "Linux": 85,
+        "Unknown": 78,
+        "KAIOS": 13
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uB": {
+      "2021-04-08": {
+        "Chrome 89": 1141,
+        "Firefox 87": 157,
+        "Firefox 84": 106,
+        "Unknown": 104,
+        "Chrome 83": 93,
+        "Chrome 88": 65,
+        "Mobile Safari 14": 50,
+        "Firefox 88": 35,
+        "Mobile Safari 6": 32,
+        "Edge 89": 27,
+        "Opera 74": 25,
+        "Opera 75": 21,
+        "Safari 14": 16,
+        "Firefox 78": 14,
+        "Chrome 85": 14,
+        "Mozilla 5": 13,
+        "Android Browser 4": 13,
+        "Chrome 49": 8,
+        "Samsung Browser 13": 2,
+        "Opera 11": 2,
+        "Mobile Safari 12": 2,
+        "Firefox 48": 2,
+        "Firefox 33": 2,
+        "Edge 16": 2,
+        "Chrome 71": 2,
+        "Yandex 21": 1
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pS": {
+      "2021-04-08": {
+        "/": 83,
+        "/help/getting-started-with-surge": 23,
+        "/pricing": 19,
+        "/help/": 9,
+        "/help/adding-a-custom-domain": 6,
+        "/tour": 5,
+        "/help/adding-a-200-page-for-client-side-routing": 4,
+        "/help/remembering-a-domain": 3,
+        "/help/listing-all-your-projects": 3,
+        "/help/integrating-with-codeship": 3,
+        "/help/deploying-a-jekyll-project": 3,
+        "/terms": 2,
+        "/privacy": 2,
+        "/help/using-incremental-publishing": 2,
+        "/help/tearing-down-a-project": 2,
+        "/help/resetting-your-password": 2,
+        "/help/adding-a-custom-404-not-found-page": 2,
+        "/plus/": 1,
+        "/help/using-lucid-caching-automatically": 1,
+        "/help/using-https-by-default": 1,
+        "/help/using-gzip-automatically": 1,
+        "/help/using-clean-urls-automatically": 1,
+        "/help/upgrading-to-surge-plus": 1,
+        "/help/securing-your-custom-domain-with-ssl": 1,
+        "/help/redirecting-www-to-root-automatically": 1,
+        "/help/integrating-with-travis-ci": 1,
+        "/help/ignoring-files-and-directories": 1,
+        "/help/enabling-cross-origin-resource-sharing": 1,
+        "/help/deploying-continuously-using-git-hooks": 1,
+        "/help/deploying-a-grunt-project": 1,
+        "/help/adding-redirects": 1
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pR": {
+      "2021-04-08": {
+        "301 /help /help/": 7,
+        "301 /plus /plus/": 1
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pN": {
+      "2021-04-08": {
+        "/favicon.ico": 90,
+        "/robots.txt": 16,
+        "/app-ads.txt": 9,
+        "/apple-touch-icon.png": 4,
+        "/apple-touch-icon-precomposed.png": 4,
+        "/apple-touch-icon-120x120.png": 3,
+        "/apple-touch-icon-120x120-precomposed.png": 3,
+        "/laybuy.surge.sh/styles.css": 1,
+        "/laybuy.surge.sh/laybuy-badge.svg": 1,
+        "/laybuy.surge.sh/cursor.svg": 1,
+        "/laybuy.surge.sh/CircularStd-Medium.woff": 1,
+        "/hunger.surge.sh/static/media/scooter.ec9b960f.svg": 1,
+        "/hunger.surge.sh/static/media/menu.1c70835e.svg": 1,
+        "/hunger.surge.sh/static/css/main.060405c5.chunk.css": 1,
+        "/hunger.surge.sh/static/css/2.266e55a5.chunk.css": 1,
+        "/hunger.surge.sh/manifest.json": 1
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "bF": {
+      "2021-04-08": {
+        "/images/help/getting-started-with-surge.gif": 13037660,
+        "/js/cache.js": 7796794,
+        "/images/tour/tour-landing-example.png": 7149059,
+        "/css/index.css": 4882608,
+        "/images/surge-companion-travis-ci.png": 4660912,
+        "/images/help/adding-collaborators.gif": 2337175,
+        "/index.html": 1716372,
+        "/images/help/deploying-a-jekyll-project.gif": 849725,
+        "/images/surge-companion-grunt.png": 807093,
+        "/404.html": 619695,
+        "/images/help/using-incremental-publishing.gif": 616568,
+        "/images/logos/svg/surge-logo.svg": 546472,
+        "/images/plus/plus-auth-example.png": 493360,
+        "/images/surge-companion-jekyll.png": 424116,
+        "/images/surge-companion-github.png": 400128,
+        "/images/plus/plus-ssl-example.png": 386670,
+        "/images/surge-companion-gulp.png": 359604,
+        "/images/help/listing-all-your-projects.gif": 317091,
+        "/images/help/adding-a-custom-domain-2.png": 285070,
+        "/images/help/adding-a-custom-domain.png": 276805,
+        "/images/surge-companion-cli.png": 265230,
+        "/images/help/resetting-your-password.gif": 244764,
+        "/help/getting-started-with-surge.html": 225998,
+        "/images/surge-companion-node.png": 202368,
+        "/images/plus/profile-trentguillory.jpg": 159131,
+        "/images/tour/tour-404-example.png": 132220,
+        "/images/help/securing-your-custom-domain-with-ssl-2.gif": 130296,
+        "/images/help/integrating-with-codeship.gif": 123284,
+        "/pricing.html": 116869,
+        "/images/tour/tour-cleanurls-example.png": 95360,
+        "/images/help/securing-your-custom-domain-with-ssl.gif": 93135,
+        "/help/index.html": 82881,
+        "/help/adding-a-custom-domain.html": 81450,
+        "/images/patterns/pattern-custom-domain.svg": 77160,
+        "/images/surge-companion-npm.png": 72354,
+        "/images/help/integrating-with-codeship-4.png": 65875,
+        "/images/help/using-gzip-automatically.png": 65803,
+        "/images/help/integrating-with-codeship-6.png": 64817,
+        "/tour.html": 60830,
+        "/images/help/integrating-with-codeship-3.png": 47230,
+        "/images/help/integrating-with-codeship-5.png": 46272,
+        "/help/adding-a-200-page-for-client-side-routing.html": 44572,
+        "/help/integrating-with-codeship.html": 40917,
+        "/terms.html": 38986,
+        "/images/help/integrating-with-codeship-2.png": 35305,
+        "/help/deploying-a-jekyll-project.html": 31938,
+        "/help/remembering-a-domain.html": 26661,
+        "/privacy.html": 26292,
+        "/help/listing-all-your-projects.html": 23973,
+        "/images/help/securing-your-custom-domain-with-ssl-3.gif": 23123,
+        "/help/using-incremental-publishing.html": 18740
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rS": {
+      "2021-04-08": {
+        "www.google.com/": 27,
+        "surge.surge.sh/": 25,
+        "habr.com/ru/company/skyeng/blog/547912/": 15,
+        "www.google.com.hk/": 5,
+        "dam25.com/lander/new-bookmark-pocanth_1616417716/privacy-policy.html": 3,
+        "surge.surge.sh/token/a21c9bd0-cc1d-49f9-a37c-008abae52a79": 2,
+        "surge.surge.sh/token/3bdc903d-430f-4b78-987a-ae35132347e9": 2,
+        "redappletree.surge.sh/": 2,
+        "www.surge.sh/.well-known/pki-validation/ca3-eea3ad4bfff14d1fb386f6fd02f5693a.txt": 1,
+        "web.flow.opera.com/ext/v1/index-5b40e1e14830690d32de53a82198e9b68fd07b9525fee27e0021154618b9b80b.html": 1,
+        "vex4-html5-sc.surge.sh/": 1,
+        "t.co/": 1,
+        "metopwebgis.surge.sh/": 1,
+        "m.habr.com/ru/company/skyeng/blog/547912/": 1,
+        "korben.info/": 1,
+        "happylife.surge.sh/": 1,
+        "habr.com/": 1,
+        "github.com/sveltejs/template/blob/master/README.md": 1,
+        "github.com/sintaxi/surge/issues/341": 1,
+        "geekflare.com/best-static-site-hosting-platform/": 1,
+        "geekflare.com/": 1,
+        "duckduckgo.com/": 1,
+        "bootcamp2020_ass_1.surge.sh/": 1,
+        "baidu.com/": 1,
+        "831337.xyz/omnijb-final.zip": 1,
+        "159.203.50.177/": 1
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rM": {
+      "2021-04-08": {
+        "200 /images/surge-companion-gulp.png surge.sh/": 63,
+        "200 /images/surge-companion-grunt.png surge.sh/": 63,
+        "200 /images/surge-companion-github.png surge.sh/": 63,
+        "200 /images/logos/svg/surge-logo.svg surge.sh/": 63,
+        "200 /js/cache.js surge.sh/": 62,
+        "200 /images/tour/tour-landing-example.png surge.sh/": 62,
+        "200 /images/surge-companion-travis-ci.png surge.sh/": 62,
+        "200 /images/surge-companion-npm.png surge.sh/": 62,
+        "200 /images/surge-companion-node.png surge.sh/": 62,
+        "200 /images/surge-companion-jekyll.png surge.sh/": 62,
+        "200 /images/surge-companion-cli.png surge.sh/": 62,
+        "200 /css/index.css surge.sh/": 60,
+        "404 /favicon.ico surge.sh/": 55,
+        "304 /js/cache.js surge.sh/help/getting-started-with-surge": 32,
+        "304 /images/logos/svg/surge-logo.svg surge.sh/help/getting-started-with-surge": 32,
+        "304 /css/index.css surge.sh/help/getting-started-with-surge": 32,
+        "304 /js/cache.js surge.sh/": 30,
+        "304 /css/index.css surge.sh/": 26,
+        "304 /images/tour/tour-landing-example.png surge.sh/": 21,
+        "304 /images/logos/svg/surge-logo.svg surge.sh/": 21,
+        "200 /images/help/getting-started-with-surge.gif surge.sh/help/getting-started-with-surge": 20,
+        "304 /images/surge-companion-npm.png surge.sh/": 18,
+        "304 /images/surge-companion-jekyll.png surge.sh/": 18,
+        "304 /images/surge-companion-gulp.png surge.sh/": 18,
+        "304 /images/surge-companion-grunt.png surge.sh/": 18,
+        "304 /images/surge-companion-github.png surge.sh/": 18,
+        "304 /images/surge-companion-cli.png surge.sh/": 18,
+        "304 /js/cache.js surge.sh/pricing": 17,
+        "304 /images/logos/svg/surge-logo.svg surge.sh/pricing": 17,
+        "304 /images/help/adding-collaborators.gif surge.sh/help/getting-started-with-surge": 17,
+        "200 /images/help/adding-collaborators.gif surge.sh/help/getting-started-with-surge": 17,
+        "304 /images/surge-companion-travis-ci.png surge.sh/": 16,
+        "304 /images/surge-companion-node.png surge.sh/": 16,
+        "304 /images/help/getting-started-with-surge.gif surge.sh/help/getting-started-with-surge": 14,
+        "304 /css/index.css surge.sh/pricing": 14,
+        "200 /pricing surge.sh/": 13,
+        "304 /js/cache.js surge.sh/help/": 9,
+        "304 /images/logos/svg/surge-logo.svg surge.sh/help/": 9,
+        "304 /css/index.css surge.sh/help/": 9,
+        "200 /help/getting-started-with-surge surge.sh/": 9,
+        "404 /favicon.ico surge.sh/help/getting-started-with-surge": 8,
+        "200 /help/ surge.sh/": 6,
+        "304 /js/cache.js surge.sh/help/adding-a-custom-domain": 5,
+        "301 /help surge.sh/": 5,
+        "200 /images/plus/plus-ssl-example.png surge.sh/help/adding-a-custom-domain": 5,
+        "200 /images/help/adding-a-custom-domain.png surge.sh/help/adding-a-custom-domain": 5,
+        "200 /images/help/adding-a-custom-domain-2.png surge.sh/help/adding-a-custom-domain": 5,
+        "304 /js/cache.js surge.sh/help/resetting-your-password": 4,
+        "304 /js/cache.js surge.sh/help/adding-collaborators": 4,
+        "304 /images/logos/svg/surge-logo.svg surge.sh/help/resetting-your-password": 4,
+        "304 /images/logos/svg/surge-logo.svg surge.sh/help/adding-collaborators": 4,
+        "304 /images/logos/svg/surge-logo.svg surge.sh/help/adding-a-custom-domain": 4,
+        "304 /css/index.css surge.sh/help/resetting-your-password": 4,
+        "304 /css/index.css surge.sh/help/adding-collaborators": 4,
+        "304 /css/index.css surge.sh/help/adding-a-custom-domain": 4,
+        "200 /images/tour/tour-cleanurls-example.png surge.sh/tour": 4,
+        "200 /images/tour/tour-404-example.png surge.sh/tour": 4,
+        "200 /images/patterns/pattern-custom-domain.svg surge.sh/tour": 4,
+        "200 /css/index.css surge.sh/pricing": 4,
+        "304 /js/cache.js surge.sh/tour": 3,
+        "304 /js/cache.js surge.sh/help/tearing-down-a-project": 3,
+        "304 /js/cache.js surge.sh/help/remembering-a-domain": 3,
+        "304 /images/logos/svg/surge-logo.svg surge.sh/tour": 3,
+        "304 /images/logos/svg/surge-logo.svg surge.sh/help/tearing-down-a-project": 3,
+        "304 /images/logos/svg/surge-logo.svg surge.sh/help/remembering-a-domain": 3,
+        "304 /images/help/adding-collaborators.gif surge.sh/help/tearing-down-a-project": 3,
+        "304 /images/help/adding-collaborators.gif surge.sh/help/adding-collaborators": 3,
+        "304 /help/getting-started-with-surge surge.sh/pricing": 3,
+        "304 /css/index.css surge.sh/tour": 3,
+        "304 /css/index.css surge.sh/help/remembering-a-domain": 3,
+        "200 /images/help/listing-all-your-projects.gif surge.sh/help/listing-all-your-projects": 3,
+        "200 /help/getting-started-with-surge surge.sh/help/": 3,
+        "404 /favicon.ico surge.sh/help/tearing-down-a-project": 2,
+        "304 /js/cache.js surge.sh/terms": 2,
+        "304 /js/cache.js surge.sh/help/listing-all-your-projects": 2,
+        "304 /js/cache.js surge.sh/help/adding-a-200-page-for-client-side-routing": 2,
+        "304 /images/tour/tour-landing-example.png surge.sh/tour": 2,
+        "304 /images/plus/plus-auth-example.png surge.sh/help/resetting-your-password": 2,
+        "304 /images/logos/svg/surge-logo.svg surge.sh/terms": 2,
+        "304 /images/logos/svg/surge-logo.svg surge.sh/help/listing-all-your-projects": 2,
+        "304 /images/logos/svg/surge-logo.svg surge.sh/help/adding-a-200-page-for-client-side-routing": 2,
+        "304 /images/help/resetting-your-password.gif surge.sh/help/resetting-your-password": 2,
+        "304 /images/help/adding-collaborators.gif surge.sh/help/remembering-a-domain": 2,
+        "304 /images/help/adding-collaborators.gif surge.sh/help/listing-all-your-projects": 2,
+        "304 /help/ surge.sh/": 2,
+        "304 /css/index.css surge.sh/terms": 2,
+        "304 /css/index.css surge.sh/help/using-incremental-publishing": 2,
+        "304 /css/index.css surge.sh/help/tearing-down-a-project": 2,
+        "304 /css/index.css surge.sh/help/listing-all-your-projects": 2,
+        "206 /images/tour/tour-landing-example.png surge.sh/": 2,
+        "200 /tour surge.sh/": 2,
+        "200 /pricing surge.sh/tour": 2,
+        "200 /js/cache.js surge.sh/help/getting-started-with-surge": 2,
+        "200 /images/tour/tour-landing-example.png surge.sh/tour": 2,
+        "200 /images/plus/plus-auth-example.png surge.sh/help/resetting-your-password": 2,
+        "200 /images/logos/svg/surge-logo.svg surge.sh/pricing": 2,
+        "200 /images/logos/svg/surge-logo.svg surge.sh/help/getting-started-with-surge": 2,
+        "200 /images/help/using-incremental-publishing.gif surge.sh/help/using-incremental-publishing": 2,
+        "200 /images/help/resetting-your-password.gif surge.sh/help/resetting-your-password": 2,
+        "200 /help/getting-started-with-surge surge.sh/tour": 2
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    }
+  },
+  "nrt-01.surge.sh": {
+    "domain": "surge.sh",
+    "version": "0.8.0",
+    "range": [
+      "2021-03-26",
+      "2021-03-27",
+      "2021-03-28",
+      "2021-03-29",
+      "2021-03-30",
+      "2021-03-31",
+      "2021-04-01",
+      "2021-04-02",
+      "2021-04-03",
+      "2021-04-04",
+      "2021-04-05",
+      "2021-04-06",
+      "2021-04-07",
+      "2021-04-08"
+    ],
+    "g": {
+      "tC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tV": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cE": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRe": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRu": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bB": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bA": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xM": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "uD": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uO": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uB": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pR": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pN": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "bF": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rM": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    }
+  },
+  "lhr-01.surge.sh": {
+    "domain": "surge.sh",
+    "version": "0.8.0",
+    "range": [
+      "2021-03-26",
+      "2021-03-27",
+      "2021-03-28",
+      "2021-03-29",
+      "2021-03-30",
+      "2021-03-31",
+      "2021-04-01",
+      "2021-04-02",
+      "2021-04-03",
+      "2021-04-04",
+      "2021-04-05",
+      "2021-04-06",
+      "2021-04-07",
+      "2021-04-08"
+    ],
+    "g": {
+      "tC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tV": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cE": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRe": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRu": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bB": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bA": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xM": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "uD": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uO": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uB": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pR": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pN": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "bF": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rM": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    }
+  },
+  "ams-02.surge.sh": {
+    "domain": "surge.sh",
+    "version": "0.8.0",
+    "range": [
+      "2021-03-26",
+      "2021-03-27",
+      "2021-03-28",
+      "2021-03-29",
+      "2021-03-30",
+      "2021-03-31",
+      "2021-04-01",
+      "2021-04-02",
+      "2021-04-03",
+      "2021-04-04",
+      "2021-04-05",
+      "2021-04-06",
+      "2021-04-07",
+      "2021-04-08"
+    ],
+    "g": {
+      "tC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tV": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cE": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRe": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRu": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bB": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bA": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xM": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "uD": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uO": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uB": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pR": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pN": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "bF": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rM": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    }
+  },
+  "fra-03.surge.sh": {
+    "domain": "surge.sh",
+    "version": "0.8.0",
+    "range": [
+      "2021-03-26",
+      "2021-03-27",
+      "2021-03-28",
+      "2021-03-29",
+      "2021-03-30",
+      "2021-03-31",
+      "2021-04-01",
+      "2021-04-02",
+      "2021-04-03",
+      "2021-04-04",
+      "2021-04-05",
+      "2021-04-06",
+      "2021-04-07",
+      "2021-04-08"
+    ],
+    "g": {
+      "tC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tV": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cE": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRe": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRu": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bB": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bA": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xM": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "uD": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uO": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uB": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pR": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pN": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "bF": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rM": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    }
+  },
+  "syd-01.surge.sh": {
+    "domain": "surge.sh",
+    "version": "0.8.0",
+    "range": [
+      "2021-03-26",
+      "2021-03-27",
+      "2021-03-28",
+      "2021-03-29",
+      "2021-03-30",
+      "2021-03-31",
+      "2021-04-01",
+      "2021-04-02",
+      "2021-04-03",
+      "2021-04-04",
+      "2021-04-05",
+      "2021-04-06",
+      "2021-04-07",
+      "2021-04-08"
+    ],
+    "g": {
+      "tC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tV": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cE": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRe": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRu": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bB": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bA": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xM": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "uD": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uO": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uB": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pR": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pN": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "bF": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rM": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    }
+  },
+  "sgp-04.surge.sh": {
+    "domain": "surge.sh",
+    "version": "0.8.0",
+    "range": [
+      "2021-03-26",
+      "2021-03-27",
+      "2021-03-28",
+      "2021-03-29",
+      "2021-03-30",
+      "2021-03-31",
+      "2021-04-01",
+      "2021-04-02",
+      "2021-04-03",
+      "2021-04-04",
+      "2021-04-05",
+      "2021-04-06",
+      "2021-04-07",
+      "2021-04-08"
+    ],
+    "g": {
+      "tC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tV": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cE": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRe": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRu": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bB": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bA": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xM": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "uD": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uO": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uB": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pR": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pN": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "bF": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rM": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    }
+  },
+  "blr-01.surge.sh": {
+    "domain": "surge.sh",
+    "version": "0.8.0",
+    "range": [
+      "2021-03-26",
+      "2021-03-27",
+      "2021-03-28",
+      "2021-03-29",
+      "2021-03-30",
+      "2021-03-31",
+      "2021-04-01",
+      "2021-04-02",
+      "2021-04-03",
+      "2021-04-04",
+      "2021-04-05",
+      "2021-04-06",
+      "2021-04-07",
+      "2021-04-08"
+    ],
+    "g": {
+      "tC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tV": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "tU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cE": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRe": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "cRu": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bB": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "bA": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xH": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "xM": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dC": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "dU": {
+        "t": 0,
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "uD": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uO": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "uB": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pR": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "pN": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "bF": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rS": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    },
+    "rM": {
+      "2021-04-08": {
+      },
+      "2021-04-07": {
+      },
+      "2021-04-06": {
+      }
+    }
+  }
+}

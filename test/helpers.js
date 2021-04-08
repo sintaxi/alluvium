@@ -1,6 +1,8 @@
 
 var should  = require("should")
 var helpers = require("../lib/helpers.js")
+var mergePayloadExample = require("./merge-payload.json")
+//console.log(mergePayloadExample)
 
 
 describe("helpers.day", function(){
@@ -98,6 +100,12 @@ describe("helpers.merge", function(){
   it("should exist", function(done){
     should.exist(helpers.merge)
     helpers.should.have.property("merge").and.be.a.Function
+    done()
+  })
+
+  it("should merge example payload", function(done){
+    var merged = helpers.merge(mergePayloadExample)
+    //console.log(merged)
     done()
   })
 
@@ -289,10 +297,10 @@ describe("helpers.normalize", function(){
     normal.traffic.should.have.property("uniques")
 
     normal.should.have.property("encryption")
-    normal.encryption.should.have.property("E")
-    normal.encryption.should.have.property("U")
-    normal.encryption.should.have.property("Re")
-    normal.encryption.should.have.property("Ru")
+    normal.encryption.should.have.property("cE")
+    normal.encryption.should.have.property("cU")
+    normal.encryption.should.have.property("cRe")
+    normal.encryption.should.have.property("cRu")
 
     normal.should.have.property("bandwidth")
     normal.bandwidth.should.have.property("all")
