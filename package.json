@@ -1,6 +1,6 @@
 {
   "name": "alluvium",
-  "version": "0.7.14",
+  "version": "0.8.0",
   "description": "time-series analytics for static web sites",
   "main": "lib/alluvium.js",
   "scripts": {
