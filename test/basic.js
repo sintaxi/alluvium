@@ -54,6 +54,15 @@ describe("alluvium", function(){
     })
   })
 
+  // it("should return list of sites", function(done){
+  //   alluvium.leaders("sintaxi.com", { endDay: "2015-03-18", numberOfDays: 3 }, function(data){
+  //     data.should.have.property("version")
+  //     data.should.have.property("range")
+  //     data.range.should.be.instanceof(Array).and.have.lengthOf(3);
+  //     done()
+  //   })
+  // })
+
   after(function(done){
     redisClient.flushall(function(){
       redisClient.quit(function(){
