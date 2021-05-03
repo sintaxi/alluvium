@@ -208,6 +208,10 @@ describe("helpers.merge", function(){
         "2021-01-01":  { "Unknown": 12 },
         "2020-12-31":  { "Unknown": 10 }
       },
+      tCr: {
+        sfo: { t: 21, s: [4,5,6,6] },
+        jfk: { t: 21, s: [4,5,6,6] }
+      }
     })
 
     done()
@@ -282,6 +286,10 @@ describe("helpers.normalize", function(){
         },
         "2021-01-01":  {},
         "2021-01-02":  {}
+      },
+      tCr: {
+        sfo: { t: 21, s: [4,5,6,6] },
+        jfk: { t: 21, s: [4,5,6,6] }
       }
     }
     var normal = helpers.normalize(analytics)
@@ -344,6 +352,19 @@ describe("helpers.normalize", function(){
     Object.keys(normal.load).forEach(function(day){
       normal.load[day].should.be.instanceof(Array)  
     })
+
+    normal.should.have.property("datacenters")
+    Object.keys(normal.datacenters).forEach(function(dc){
+      normal.datacenters[dc].should.have.property("t")
+      normal.datacenters[dc].should.have.property("s")
+    })
+
+    // normal.should.have.property("distribution")
+    // Object.keys(normal.distribution).forEach(function(region){
+    //   normal.distribution[region].should.be.instanceof(Array)  
+    // })
+
+
 
     done()
   })
