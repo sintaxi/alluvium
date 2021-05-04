@@ -177,7 +177,16 @@ describe("helpers.merge", function(){
       }
     }
 
-    var result = helpers.merge(payload)
+    var result = helpers.merge(payload, {
+      "sfo": {
+        city: "San Francisco",
+        country: "US"
+      },
+      "jfk": {
+        city: "New York",
+        country: "US"
+      }
+    })
 
     result.should.eql({
       domain: "sintaxi.com",
@@ -209,8 +218,18 @@ describe("helpers.merge", function(){
         "2020-12-31":  { "Unknown": 10 }
       },
       tCr: {
-        sfo: { t: 21, s: [4,5,6,6] },
-        jfk: { t: 21, s: [4,5,6,6] }
+        sfo: { 
+          t: 21, 
+          s: [4,5,6,6],
+          city: "San Francisco",
+          country: "US"
+        },
+        jfk: { 
+          t: 21, 
+          s: [4,5,6,6],
+          city: "New York",
+          country: "US"
+        }
       }
     })
 
