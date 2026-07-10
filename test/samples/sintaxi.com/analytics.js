@@ -26,9 +26,9 @@ module.exports = {
   },
 
   uD: {
-    "2021-01-02":  { "Unknown": 6 },
-    "2021-01-01":  { "Unknown": 6 },
-    "2020-12-31":  { "Unknown": 5 }
+    "2021-01-02":  { "desktop": 4, "tablet": 2 },
+    "2021-01-01":  { "desktop": 4, "Unknown": 2 },
+    "2020-12-31":  { "phone": 4, "Unknown": 1 }
   },
 
   uO: {
@@ -39,7 +39,7 @@ module.exports = {
 
   uB: {
     "2021-01-02":  { "Unknown": 6 },
-    "2021-01-01":  { "Unknown": 6 },
+    "2021-01-01":  { "Unknown": 4, "Deno 1.8.3": 2 },
     "2020-12-31":  { "Unknown": 5 }
   },
 

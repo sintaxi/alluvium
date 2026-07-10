@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/sintaxi/alluvium",
   "dependencies": {
+    "debug": "^4.4.3",
     "mime": "^2.5.2",
     "ua-parser-js": "^0.7.24"
   }
